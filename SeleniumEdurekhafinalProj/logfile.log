@@ -1,0 +1,334 @@
+2017-02-14 14:27:32,908 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 14:27:32,909 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 14:27:32,909 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 14:27:32,909 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 14:27:32,909 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 14:27:38,311 INFO  [Log] Browser Open 
+2017-02-14 14:27:42,127 INFO  [Log] navigate to website 
+2017-02-14 14:27:52,141 INFO  [Log] Waiting for 10 seconds 
+2017-02-14 14:27:54,163 INFO  [Log] ======================= END ================== 
+2017-02-14 14:28:13,022 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 14:28:13,023 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 14:28:13,023 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 14:28:13,023 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 14:28:13,023 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 14:28:18,949 INFO  [Log] Browser Open 
+2017-02-14 14:28:27,600 INFO  [Log] navigate to website 
+2017-02-14 14:30:55,889 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 14:30:55,890 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 14:30:55,891 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 14:30:55,891 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 14:30:55,891 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 14:31:07,076 INFO  [Log] Browser Open 
+2017-02-14 14:31:13,521 INFO  [Log] Not able to navigate Browserno such session
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 27 milliseconds
+Build info: version: '2.47.0', revision: '0e4837e', time: '2015-07-29 22:56:05'
+System info: host: 'WNY-APAPPA705LA', ip: '10.114.20.72', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 42b71cfaab958e4504cdef24975813b6
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\t15clsp\AppData\Local\Temp\scoped_dir4816_4115, chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9)}, networkConnectionEnabled=false, unexpectedAlertBehaviour=, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=56.0.2924.87, pageLoadStrategy=normal, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}] 
+2017-02-14 14:47:39,697 INFO  [Log] Not able to loginno such session
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 14 milliseconds
+Build info: version: '2.47.0', revision: '0e4837e', time: '2015-07-29 22:56:05'
+System info: host: 'WNY-APAPPA705LA', ip: '10.114.20.72', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 42b71cfaab958e4504cdef24975813b6
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\t15clsp\AppData\Local\Temp\scoped_dir4816_4115, chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9)}, networkConnectionEnabled=false, unexpectedAlertBehaviour=, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=56.0.2924.87, pageLoadStrategy=normal, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}] 
+2017-02-14 14:47:54,354 INFO  [Log] Waiting for 10 seconds 
+2017-02-14 14:49:34,325 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 14:49:34,326 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 14:49:34,326 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 14:49:34,326 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 14:49:34,326 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 14:49:40,708 INFO  [Log] Browser Open 
+2017-02-14 14:49:42,160 INFO  [Log] Not able to navigate Browserno such session
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 42 milliseconds
+Build info: version: '2.47.0', revision: '0e4837e', time: '2015-07-29 22:56:05'
+System info: host: 'WNY-APAPPA705LA', ip: '10.114.20.72', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: b285c95f863863342a978821fda6a30c
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\t15clsp\AppData\Local\Temp\scoped_dir6364_28231, chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9)}, networkConnectionEnabled=false, unexpectedAlertBehaviour=, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=56.0.2924.87, pageLoadStrategy=normal, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}] 
+2017-02-14 14:49:52,148 INFO  [Log] WP_User : Not able enterno such session
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 22 milliseconds
+Build info: version: '2.47.0', revision: '0e4837e', time: '2015-07-29 22:56:05'
+System info: host: 'WNY-APAPPA705LA', ip: '10.114.20.72', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=xpath, value=//*[@id='user_login']}
+Session ID: b285c95f863863342a978821fda6a30c
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\t15clsp\AppData\Local\Temp\scoped_dir6364_28231, chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9)}, networkConnectionEnabled=false, unexpectedAlertBehaviour=, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=56.0.2924.87, pageLoadStrategy=normal, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}] 
+2017-02-14 15:28:53,066 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:28:53,067 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:28:53,067 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 15:28:53,067 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:28:53,067 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:30:14,636 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:30:14,637 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:30:14,637 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 15:30:14,637 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:30:14,637 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:30:42,630 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:30:42,631 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:30:42,631 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 15:30:42,631 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:30:42,631 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:30:52,861 INFO  [Log] WP_User : entered 
+2017-02-14 15:30:52,993 INFO  [Log] WP_Pass : entered 
+2017-02-14 15:31:03,090 INFO  [Log] Waiting for 10 seconds 
+2017-02-14 15:31:03,090 INFO  [Log] ======================= END ================== 
+2017-02-14 15:33:06,368 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:33:06,368 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:33:06,368 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 15:33:06,368 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:33:06,368 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:33:14,620 INFO  [Log] WP_User : entered 
+2017-02-14 15:33:14,809 INFO  [Log] WP_Pass : entered 
+2017-02-14 15:33:24,982 INFO  [Log] Waiting for 10 seconds 
+2017-02-14 15:33:24,982 INFO  [Log] ======================= END ================== 
+2017-02-14 15:33:56,393 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:33:56,393 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:33:56,393 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 15:33:56,393 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:33:56,393 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:34:03,404 INFO  [Log] WP_User : entered 
+2017-02-14 15:34:03,530 INFO  [Log] WP_Pass : entered 
+2017-02-14 15:35:23,952 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:35:23,953 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:35:23,953 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 15:35:23,953 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:35:23,953 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 15:35:30,984 INFO  [Log] WP_User : entered 
+2017-02-14 15:35:31,135 INFO  [Log] WP_Pass : entered 
+2017-02-14 15:35:44,529 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-14 16:20:46,693 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:20:46,694 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:20:46,694 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 16:20:46,694 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:20:46,694 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:20:53,853 INFO  [Log] WP_User : entered 
+2017-02-14 16:20:53,989 INFO  [Log] WP_Pass : entered 
+2017-02-14 16:21:21,647 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-14 16:22:39,867 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:22:39,868 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:22:39,868 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 16:22:39,868 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:22:39,868 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:22:47,315 INFO  [Log] WP_User : entered 
+2017-02-14 16:22:47,463 INFO  [Log] WP_Pass : entered 
+2017-02-14 16:22:58,364 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-14 16:23:00,458 INFO  [Log] DB_Postslnk : Not able enternull 
+2017-02-14 16:23:21,898 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:23:21,899 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:23:21,899 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 16:23:21,899 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:23:21,899 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:23:28,892 INFO  [Log] WP_User : entered 
+2017-02-14 16:23:29,070 INFO  [Log] WP_Pass : entered 
+2017-02-14 16:24:04,120 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-14 16:24:40,390 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:24:40,390 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:24:40,391 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 16:24:40,391 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:24:40,391 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:24:47,625 INFO  [Log] WP_User : entered 
+2017-02-14 16:24:47,772 INFO  [Log] WP_Pass : entered 
+2017-02-14 16:25:03,494 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-14 16:25:27,753 INFO  [Log] DB_Postslnk : Not able enternull 
+2017-02-14 16:26:08,279 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:26:08,279 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:26:08,279 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 16:26:08,279 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:26:08,279 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:26:15,345 INFO  [Log] WP_User : entered 
+2017-02-14 16:26:15,500 INFO  [Log] WP_Pass : entered 
+2017-02-14 16:27:00,401 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-14 16:27:02,528 INFO  [Log] DB_Postslnk : Not able enternull 
+2017-02-14 16:27:12,143 INFO  [Log] DB_AddNewPostlnk : Not able enternull 
+2017-02-14 16:27:22,144 INFO  [Log] Waiting for 10 seconds 
+2017-02-14 16:27:22,144 INFO  [Log] ======================= END ================== 
+2017-02-14 16:28:11,654 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:28:11,655 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:28:11,655 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 16:28:11,655 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:28:11,655 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:28:19,125 INFO  [Log] WP_User : entered 
+2017-02-14 16:28:19,283 INFO  [Log] WP_Pass : entered 
+2017-02-14 16:28:46,770 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-14 16:28:48,951 INFO  [Log] DB_Postslnk : Not able enternull 
+2017-02-14 16:28:48,957 INFO  [Log] DB_AddNewPostlnk : Not able enternull 
+2017-02-14 16:28:58,958 INFO  [Log] Waiting for 10 seconds 
+2017-02-14 16:28:58,958 INFO  [Log] ======================= END ================== 
+2017-02-14 16:29:54,810 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:29:54,811 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:29:54,811 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 16:29:54,811 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:29:54,811 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:30:02,704 INFO  [Log] WP_User : entered 
+2017-02-14 16:30:02,887 INFO  [Log] WP_Pass : entered 
+2017-02-14 16:30:03,063 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-14 16:30:05,165 INFO  [Log] DB_Postslnk : Not able enternull 
+2017-02-14 16:30:05,170 INFO  [Log] DB_AddNewPostlnk : Not able enternull 
+2017-02-14 16:30:15,172 INFO  [Log] Waiting for 10 seconds 
+2017-02-14 16:30:15,172 INFO  [Log] ======================= END ================== 
+2017-02-14 16:33:06,715 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:33:06,716 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:33:06,716 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 16:33:06,716 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:33:06,716 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:33:14,407 INFO  [Log] WP_User : entered 
+2017-02-14 16:33:14,575 INFO  [Log] WP_Pass : entered 
+2017-02-14 16:33:24,185 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-14 16:37:05,924 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:37:05,925 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:37:05,925 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 16:37:05,925 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:37:05,925 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:37:15,932 INFO  [Log] WP_User : entered 
+2017-02-14 16:37:16,094 INFO  [Log] WP_Pass : entered 
+2017-02-14 16:37:49,354 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-14 16:38:00,129 INFO  [Log] DB_Postslnk : Not able enternull 
+2017-02-14 16:38:57,779 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:38:57,780 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:38:57,780 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 16:38:57,780 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:38:57,780 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:39:04,598 INFO  [Log] WP_User : entered 
+2017-02-14 16:39:04,731 INFO  [Log] WP_Pass : entered 
+2017-02-14 16:39:04,882 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-14 16:39:06,483 INFO  [Log] DB_Postslnk : Not able enternull 
+2017-02-14 16:39:06,489 INFO  [Log] DB_AddNewPostlnk : Not able enternull 
+2017-02-14 16:39:16,491 INFO  [Log] Waiting for 10 seconds 
+2017-02-14 16:39:16,491 INFO  [Log] ======================= END ================== 
+2017-02-14 16:39:28,488 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:39:28,489 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:39:28,489 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 16:39:28,489 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:39:28,489 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:39:35,164 INFO  [Log] WP_User : entered 
+2017-02-14 16:39:35,305 INFO  [Log] WP_Pass : entered 
+2017-02-14 16:39:35,446 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-14 16:39:37,001 INFO  [Log] DB_Postslnk : Not able enternull 
+2017-02-14 16:39:37,008 INFO  [Log] DB_AddNewPostlnk : Not able enternull 
+2017-02-14 16:39:47,009 INFO  [Log] Waiting for 10 seconds 
+2017-02-14 16:39:47,009 INFO  [Log] ======================= END ================== 
+2017-02-14 16:40:01,405 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:40:01,406 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:40:01,406 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 16:40:01,406 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:40:01,406 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:40:08,131 INFO  [Log] WP_User : entered 
+2017-02-14 16:40:08,261 INFO  [Log] WP_Pass : entered 
+2017-02-14 16:40:08,382 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-14 16:40:09,950 INFO  [Log] DB_Postslnk : Not able enternull 
+2017-02-14 16:40:09,956 INFO  [Log] DB_AddNewPostlnk : Not able enternull 
+2017-02-14 16:40:19,957 INFO  [Log] Waiting for 10 seconds 
+2017-02-14 16:40:19,957 INFO  [Log] ======================= END ================== 
+2017-02-14 16:42:24,197 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:42:24,197 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:42:24,197 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 16:42:24,197 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:42:24,197 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:42:32,429 INFO  [Log] WP_User : entered 
+2017-02-14 16:42:32,577 INFO  [Log] WP_Pass : entered 
+2017-02-14 16:42:32,729 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-14 16:42:34,399 INFO  [Log] DB_Postslnk : Not able enternull 
+2017-02-14 16:42:34,406 INFO  [Log] DB_AddNewPostlnk : Not able enternull 
+2017-02-14 16:42:44,408 INFO  [Log] Waiting for 10 seconds 
+2017-02-14 16:42:44,408 INFO  [Log] ======================= END ================== 
+2017-02-14 16:45:24,315 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:45:24,316 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:45:24,316 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 16:45:24,316 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:45:24,316 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:45:31,096 INFO  [Log] WP_User : entered 
+2017-02-14 16:45:31,252 INFO  [Log] WP_Pass : entered 
+2017-02-14 16:45:31,390 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-14 16:45:33,095 INFO  [Log] DB_Postslnk : Not able enternull 
+2017-02-14 16:45:33,101 INFO  [Log] DB_AddNewPostlnk : Not able enternull 
+2017-02-14 16:45:43,100 INFO  [Log] Waiting for 10 seconds 
+2017-02-14 16:45:43,100 INFO  [Log] ======================= END ================== 
+2017-02-14 16:46:22,713 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:46:22,713 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:46:22,713 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 16:46:22,713 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:46:22,713 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:46:30,574 INFO  [Log] WP_User : entered 
+2017-02-14 16:46:30,714 INFO  [Log] WP_Pass : entered 
+2017-02-14 16:46:30,854 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-14 16:46:33,080 INFO  [Log] DB_Postslnk : Not able enternull 
+2017-02-14 16:46:33,088 INFO  [Log] DB_AddNewPostlnk : Not able enternull 
+2017-02-14 16:46:43,087 INFO  [Log] Waiting for 10 seconds 
+2017-02-14 16:46:43,087 INFO  [Log] ======================= END ================== 
+2017-02-14 16:47:28,329 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:47:28,329 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:47:28,329 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 16:47:28,329 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:47:28,329 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:47:36,862 INFO  [Log] WP_User : entered 
+2017-02-14 16:47:36,994 INFO  [Log] WP_Pass : entered 
+2017-02-14 16:47:37,123 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-14 16:47:49,065 INFO  [Log] Waiting for 10 seconds 
+2017-02-14 16:47:49,065 INFO  [Log] ======================= END ================== 
+2017-02-14 16:50:09,627 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:50:09,627 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:50:09,627 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 16:50:09,628 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:50:09,628 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 16:50:17,564 INFO  [Log] WP_User : entered 
+2017-02-14 16:50:17,722 INFO  [Log] WP_Pass : entered 
+2017-02-14 16:50:17,861 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-14 16:50:29,695 INFO  [Log] Waiting for 10 seconds 
+2017-02-14 16:50:29,695 INFO  [Log] ======================= END ================== 
+2017-02-14 19:16:08,457 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 19:16:08,457 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 19:16:08,458 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 19:16:08,458 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 19:16:08,458 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 19:16:16,537 INFO  [Log] WP_User : entered 
+2017-02-14 19:16:16,679 INFO  [Log] WP_Pass : entered 
+2017-02-14 19:16:16,826 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-14 19:16:31,460 INFO  [Log] Waiting for 10 seconds 
+2017-02-14 19:16:31,460 INFO  [Log] ======================= END ================== 
+2017-02-14 19:18:21,224 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 19:18:21,224 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 19:18:21,224 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 19:18:21,224 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 19:18:21,224 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 19:18:28,540 INFO  [Log] WP_User : entered 
+2017-02-14 19:18:28,692 INFO  [Log] WP_Pass : entered 
+2017-02-14 19:18:28,834 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-14 19:18:40,551 INFO  [Log] Waiting for 10 seconds 
+2017-02-14 19:18:40,551 INFO  [Log] ======================= END ================== 
+2017-02-14 19:18:43,488 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 19:18:43,489 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 19:18:43,489 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-14 19:18:43,489 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 19:18:43,489 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-14 19:18:50,161 INFO  [Log] WP_User : entered 
+2017-02-14 19:18:50,308 INFO  [Log] WP_Pass : entered 
+2017-02-14 19:18:54,604 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-15 16:10:38,357 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-15 16:10:38,357 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-15 16:10:38,358 INFO  [Log] +++++++++++++-------TC001-----Started--- ++++++++++++ 
+2017-02-15 16:10:38,358 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-15 16:10:38,358 INFO  [Log] ++++++++++++++++++++++++++++++++++++++++++++++ 
+2017-02-15 16:10:41,496 INFO  [Log] WP_User : entered 
+2017-02-15 16:10:41,638 INFO  [Log] WP_Pass : entered 
+2017-02-15 16:10:42,047 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-15 16:10:43,258 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-15 16:10:44,454 INFO  [Log] WP_User : entered 
+2017-02-15 16:10:44,579 INFO  [Log] WP_Pass : entered 
+2017-02-15 16:10:44,718 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-15 16:10:48,554 INFO  [Log] DB_Postslnk : entered 
+2017-02-15 16:10:50,834 INFO  [Log] DB_AddNewPostlnk : entered 
+2017-02-15 16:10:50,877 INFO  [Log] DB_TitleXP : entered 
+2017-02-15 16:10:51,045 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-15 16:10:51,216 INFO  [Log] DB_BodyContentXP : entered 
+2017-02-15 16:10:51,373 INFO  [Log] DB_AddTagVal : entered 
+2017-02-15 16:10:51,612 INFO  [Log] Sign in button is enabled and clicked 
+2017-02-15 16:10:56,815 INFO  [Log] DB_TitleXP : entered 
+2017-02-15 16:10:56,977 INFO  [Log] DB_AdminBarlnk : entered 
+2017-02-15 16:10:58,016 INFO  [Log] Sign in button is enabled and clicked 

@@ -1,0 +1,9 @@
+<suite name = "Test-suite">
+	<test name ="TC001">
+	
+ 		<classes>
+			<class name = "testcases.testcase01"/>
+			
+		</classes>
+	</test>
+</suite>

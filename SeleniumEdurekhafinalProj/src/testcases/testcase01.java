@@ -65,8 +65,7 @@ public class testcase01 {
 		Thread.sleep(1000);
 		PostPage.closeTab(driver);
 		Thread.sleep(1000);
-
-		
+		//test
 		PostPage.enter_text(driver,ConstantVariables.DBAddTagVal,"Test1,Deepak");
 		PostPage.click(driver,ConstantVariables.DBAddbtn);
 		PostPage.click(driver,ConstantVariables.DBPreviewbtn);
